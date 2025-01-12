@@ -59,13 +59,13 @@
   </a>
 </div>
 
-
+<div align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ###
 
-
+</div>
 <br clear="both">
 
 
