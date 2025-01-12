@@ -37,7 +37,8 @@
   <p align="left">My social links are 👇</p>
 
 ###
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Duu-Avia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmZjFkbG5lcDl1cnFxdGQ4ajQ5eWV2Z2lleTdmY25tY2pkODNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
 </div>
 
