@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Duu-Avia/Duu-Avia/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
