@@ -58,9 +58,9 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-###
+
  ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ###
 
 <br clear="both">
@@ -77,4 +77,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duu-Avia/Duu-Avia/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Duu-Avia/Duu-Avia/output/github-snake.svg" />
 </picture>
-###
+
