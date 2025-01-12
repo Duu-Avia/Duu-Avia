@@ -12,7 +12,7 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmZjFkbG5lcDl1cnFxdGQ4ajQ5eWV2Z2lleTdmY25tY2pkODNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
 
 ###
-
+<div>💻 Tech Stack 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+</div>
 </div>
 
 ###
