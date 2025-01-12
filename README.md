@@ -13,7 +13,7 @@
 
 ###
 <div>
-  <h1 text-[100px]>💻 Tech Stack </h1>
+  <h1 style="padding-bottom: 30px;">💻 Tech Stack </h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
