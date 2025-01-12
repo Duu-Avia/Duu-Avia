@@ -35,10 +35,16 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=autocad" height="30" alt="autocad logo"  />
   <p align="left">My social links are 👇</p>
-
-###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Duu-Avia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Duu-Avia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###
+
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJmZjFkbG5lcDl1cnFxdGQ4ajQ5eWV2Z2lleTdmY25tY2pkODNqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif"  />
 </div>
 
