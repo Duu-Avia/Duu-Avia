@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Duu-Avia/count.svg?"  />
+
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duu-Avia/Duu-Avia/output/github-snake-dark.svg" />
